@@ -504,3 +504,20 @@ footer .social a:hover {
   opacity: 1;
   transform: translateY(0);
 }
+
+/* Responsivo */
+/* =========== MEDIA QUERIES ============== */
+
+/* extra large devices: 1200 > */
+@media (min-width: 1200px) {
+}
+/* large devices: 1023 > */
+@media (min-width: 1023px) {
+}
+
+/* large devices: 992 > */
+@media (min-width: 992px) {
+}
+/* medium devices: 767 > */
+@media (min-width: 767px) {
+}
