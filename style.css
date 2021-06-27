@@ -37,8 +37,10 @@ img {
   --title-font-size: 1.875rem;
   --subtitle-font-size: 1rem;
 
-  --title-font: 'Poppins', sans-serif;
-  --body-font: 'DM Sans', sans-serif;
+  /* --title-font: 'Poppins', sans-serif;
+  --body-font: 'DM Sans', sans-serif; */
+  --title-font: 'Montserrat', sans-serif;
+  --body-font: 'Raleway', sans-serif;
 }
 
 /* ========= BASE ===================*/
@@ -353,6 +355,12 @@ nav.show div.icon-close {
   border-bottom: 0.25rem solid var(--base-color);
   border-radius: 0.25rem 0.25rem 0 0;
   text-align: center;
+}
+
+.card:hove i,
+h3,
+pr {
+  transform: scale(1.5);
 }
 
 .card i {
